@@ -1,0 +1,2 @@
+ALTER TABLE ders_secim
+DROP COLUMN id;
